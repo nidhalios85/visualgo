@@ -1,0 +1,6 @@
+visualGo.net:
+
+list of data structures: array, linked list, graphs, trees…
+
+linked list: i can't see the difference between linked list and array
+trees and graphs: so many of them, a bit complicated
